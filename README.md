@@ -1,16 +1,27 @@
-### Hi there 👋
+<img src= "https://github.com/Juel07/Juel07/blob/master/github-banner-BW.png"></img>
+Hi i'm flaaaps
+<br>
+<br>
+Welcome to my GitHub! I'm Julian, a secondary school attend who's transitioning into Software Engineering. Through self-study I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/jvliix">jvliix</a>.
 
-<!--
-**flaaaps/flaaaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✔️ I'm currently learning
+- JavaScript
+- VueJS
 
-Here are some ideas to get you started:
+### 👩‍💻 I'm working on
+- Project <a href="https://playdragonfly.net">Dragonfly<a>
+- Building projects and my portfolio website. 
+Although, I think I'll wait to learn Vue before I build the website.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Goals for 2020
+- Build 30+ projects 
+- Become skilled in JavaScript
+
+### 🌴 Fun facts
+- I have a tiny earlobe fetish
+- Trying to learn spanish
+
+### ☕ Get in touch
+- Twitter: <a href = "https://twitter.com/jvliix">j_brgnz</a>
+- Website: coming soon
+<br>
