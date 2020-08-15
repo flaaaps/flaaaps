@@ -1,4 +1,3 @@
-<img src= "https://github.com/Juel07/Juel07/blob/master/github-banner-BW.png"></img>
 Hi i'm flaaaps
 <br>
 <br>
