@@ -1,5 +1,5 @@
 # Hi i'm flaaaps
-Welcome to my GitHub! I'm Julian, a secondary school attend who's transitioning into Software Engineering. Through self-study I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/jvliix">jvliix</a>.
+Welcome to my GitHub! I'm Julian, a student who's transitioning into Software Engineering. Through self-study I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/jvliix">jvliix</a>.
 
 ### ✔️ I'm currently learning
 - JavaScript
