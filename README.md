@@ -19,6 +19,6 @@ Although, I think I'll wait to learn Vue before I build the website.
 - Trying to learn spanish
 
 ### ☕ Get in touch
-- Twitter: <a href = "https://twitter.com/jvliix">j_brgnz</a>
+- Twitter: <a href = "https://twitter.com/jvliix">jvliix</a>
 - Website: coming soon
 <br>
