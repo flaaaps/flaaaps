@@ -13,9 +13,9 @@
 
 ## I am a Student and Developer
 - 🎆 I'm currently working on the Inception Cloud project
-- 🤔 I have a some experience in Web Development (more frontend than backend)
+- 🤓 I have a some experience in Web Development (more frontend than backend)
 - 🌱 I'm currently learning Node.js
-- 🤓 I'm exprienced in 
+
 ## Find me here:
 
 [<img align="left" alt="flaaaps | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
