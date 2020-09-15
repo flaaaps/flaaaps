@@ -13,7 +13,7 @@
 
 ## I am a Student and Developer
 - 🎆 I'm currently working on the Inception Cloud project
-- 🤓 I have a some experience in Web Development (more frontend than backend)
+- 🤓 I have a pretty much experience in Web Development
 - 🌱 I'm currently learning Node.js
 
 ## Find me here:
