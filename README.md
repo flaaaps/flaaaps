@@ -14,7 +14,7 @@
 ## I am a Student and Developer
 - 🎆 I'm currently working on the Inception Cloud project
 - 🤓 I have a pretty much experience in Web Development
-- 🌱 I'm currently learning Node.js
+- 🌱 I'm currently learning Node.js and React
 
 ## Find me here:
 
