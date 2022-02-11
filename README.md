@@ -1,25 +1,27 @@
 ## Hey, my name is Julian - aka flaaps 👋
 ### I am a Student and Developer
-- 🎆 I'm currently working on the Inception Cloud project
+- 🎆 I'm currently working on the [studypilot] project
 - 🤓 I have a pretty much experience in Web Development
-- 🌱 I'm currently learning Node.js and React
 
 <p align="start">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
-  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>&nbsp;
+  <img src="https://img.shields.io/badge/react%20-20232a.svg?&style=for-the-badge&logo=react&logoColor=#61dafb" />&nbsp;
+  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express"/>&nbsp;
+  <img src="https://img.shields.io/badge/NestJS%20-black.svg?&style=for-the-badge&logo=nestjs&logoColor=ea2845" />&nbsp;
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
-  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/postgresql%20-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Azure%20Devops%20-1a2029.svg?style=for-the-badge&logo=azuredevops&logoColor=0078d4" />
 </p>
 
 ---
 ### Find Me Here
 
 [<img alt="flaaaps | Website" src="https://img.shields.io/static/v1?label=Website&message=wening&color=a55eea&style=for-the-badge&logo=none" />][website]&nbsp;
-[<img alt="flaaaps | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]&nbsp;
 [<img alt="flaaaps | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]&nbsp;
 [<img alt="flaaaps | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]&nbsp;
 
@@ -32,3 +34,4 @@
 [youtube]: https://www.youtube.com/channel/UCWF6V6hbXWRgSme8Ay4TsWQ
 [twitter]: https://twitter.com/jvliix
 [instagram]: https://www.instagram.com/flaaaps/
+[studypilot]: https://studypilot.app
