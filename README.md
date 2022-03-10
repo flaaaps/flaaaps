@@ -1,7 +1,7 @@
 ## Hey, my name is Julian - aka flaaps 👋
 ### I am a Student and Developer
 - 🎆 I'm currently working on the [studypilot] project
-- 🤓 I have a pretty much experience in Web Development
+- 🤓 I have some experience in web development. Mainly with the frameworks React and Nest
 
 <p align="start">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
